@@ -9,7 +9,7 @@ class Solution {
         while(Aman != 0) {
             int lastDigit = Aman % 10;
             rev = rev * 10 + lastDigit;
-            Aman = Aman/10;
+            Aman = Aman / 10;
         }
         return rev == x;
         
