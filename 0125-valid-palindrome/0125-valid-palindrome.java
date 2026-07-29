@@ -6,7 +6,7 @@ class Solution {
 
     public boolean checkPalindrome(String str, int start, int end) {
 
-        if(start >= end) return true;
+        if(start>= end) return true;
 
         if(!Character.isLetterOrDigit(str.charAt(start))) return checkPalindrome(str, start + 1, end);
 
