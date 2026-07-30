@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Amigo9341/dsa-leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amigo9341/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amigo9341/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Amigo9341/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Amigo9341/dsa-leetcode/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
