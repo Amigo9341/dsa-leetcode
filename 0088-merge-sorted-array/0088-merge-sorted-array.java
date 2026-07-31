@@ -1,7 +1,7 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
 
-        int[] result = new int[m +n];
+        int[] result = new int[m + n];
         int i = 0;
 
         int idx1 = 0;
@@ -26,7 +26,7 @@ class Solution {
             i++;
             idx1++;
         }
-        
+
         while(idx2 < n) {
             result[i] = nums2[idx2];
             i++;
