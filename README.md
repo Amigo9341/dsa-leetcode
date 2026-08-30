@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Amigo9341/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Amigo9341/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Amigo9341/dsa-leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4020-elevator-requests-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Amigo9341/dsa-leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
+## Simulation
+|  |
+| ------- |
+| [4020-elevator-requests-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4020-elevator-requests-i) |
 <!---LeetCode Topics End-->
