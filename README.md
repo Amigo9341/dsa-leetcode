@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Amigo9341/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Amigo9341/dsa-leetcode/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Amigo9341/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Amigo9341/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Amigo9341/dsa-leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amigo9341/dsa-leetcode/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Counting
 |  |
 | ------- |
