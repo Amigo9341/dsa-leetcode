@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Amigo9341/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Amigo9341/dsa-leetcode/tree/master/0724-find-pivot-index) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Amigo9341/dsa-leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Amigo9341/dsa-leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Amigo9341/dsa-leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0509-fibonacci-number) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Amigo9341/dsa-leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4020-elevator-requests-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4020-elevator-requests-i) |
+## Enumeration
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Amigo9341/dsa-leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Amigo9341/dsa-leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
