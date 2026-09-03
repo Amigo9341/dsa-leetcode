@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Amigo9341/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Amigo9341/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Amigo9341/dsa-leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Amigo9341/dsa-leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amigo9341/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Amigo9341/dsa-leetcode/tree/master/0169-majority-element) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Amigo9341/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Amigo9341/dsa-leetcode/tree/master/0724-find-pivot-index) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +118,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Amigo9341/dsa-leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
