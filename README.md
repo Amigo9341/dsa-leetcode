@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Amigo9341/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Amigo9341/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0665-non-decreasing-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/Amigo9341/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Amigo9341/dsa-leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
