@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Amigo9341/dsa-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Amigo9341/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Amigo9341/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Amigo9341/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Amigo9341/dsa-leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0509-fibonacci-number) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Amigo9341/dsa-leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Amigo9341/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Amigo9341/dsa-leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0268-missing-number) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Amigo9341/dsa-leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Divide and Conquer
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amigo9341/dsa-leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Counting
 |  |
@@ -136,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
