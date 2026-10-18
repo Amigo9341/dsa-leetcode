@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Amigo9341/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Amigo9341/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Amigo9341/dsa-leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Amigo9341/dsa-leetcode/tree/master/0075-sort-colors) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Amigo9341/dsa-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Amigo9341/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Amigo9341/dsa-leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0268-missing-number) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Amigo9341/dsa-leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
