@@ -16,8 +16,7 @@ class Solution {
                 idx1++;
                 idx2--;
             }
-        }
-        
+        }   
     }
 
     public void swap(int arr[][], int a, int b) {
@@ -30,5 +29,4 @@ class Solution {
         arr1[a] = arr1[b];
         arr1[b] = temp;
     }
-
 }
