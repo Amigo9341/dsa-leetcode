@@ -16,14 +16,12 @@ class Solution {
                 }
             }
         } 
-
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
 
                 if(row[i] == 1 || column[j] == 1) {
                     matrix[i][j] = 0;
                 }
-
             }
         }
     }
