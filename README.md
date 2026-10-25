@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Amigo9341/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Amigo9341/dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Amigo9341/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Amigo9341/dsa-leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Amigo9341/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Amigo9341/dsa-leetcode/tree/master/0075-sort-colors) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Amigo9341/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amigo9341/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [4020-elevator-requests-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4020-elevator-requests-i) |
 ## Enumeration
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Amigo9341/dsa-leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Amigo9341/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Amigo9341/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
