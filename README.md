@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Amigo9341/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Amigo9341/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Amigo9341/dsa-leetcode/tree/master/0493-reverse-pairs) |
 | [0665-non-decreasing-array](https://github.com/Amigo9341/dsa-leetcode/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/Amigo9341/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amigo9341/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amigo9341/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Amigo9341/dsa-leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Amigo9341/dsa-leetcode/tree/master/0493-reverse-pairs) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Prefix Sum
 |  |
@@ -149,19 +151,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Amigo9341/dsa-leetcode/tree/master/0493-reverse-pairs) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Amigo9341/dsa-leetcode/tree/master/0493-reverse-pairs) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Amigo9341/dsa-leetcode/tree/master/0493-reverse-pairs) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Amigo9341/dsa-leetcode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amigo9341/dsa-leetcode/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/Amigo9341/dsa-leetcode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Amigo9341/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Amigo9341/dsa-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Amigo9341/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Amigo9341/dsa-leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Amigo9341/dsa-leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
